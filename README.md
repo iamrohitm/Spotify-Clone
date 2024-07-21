@@ -35,13 +35,13 @@ Open the `index.html` file in your preferred web browser to see the Spotify Clon
 Here are some screenshots of the Spotify Clone:
 
 ### Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](screenshots/im1.png)
 
 ### Music Player
-![Music Player](screenshots/musicplayer.png)
+![Music Player](/screenshots/im2.png)
 
 ### Sidebar
-![Sidebar](screenshots/sidebar.png)
+![Sidebar](/screenshots/im3.png)
 
 ## Contributing
 1. Fork the repo
