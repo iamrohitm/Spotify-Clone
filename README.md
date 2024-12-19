@@ -59,4 +59,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 Your Name - rohitmohite.in@gmail.com
-Project Link: [https://github.com/yourusername/spotify-clone](https://github.com/iamrohitm/Spotify-Clone)
+Project Link: [https://github.com/iamrohitm/spotify-clone](https://github.com/iamrohitm/Spotify-Clone)
